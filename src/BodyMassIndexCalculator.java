@@ -1,6 +1,3 @@
-import java.io.InputStream;
-import java.io.OutputStream;
-
 public class BodyMassIndexCalculator {
     private static final String NORMAL = "Ваши показатели в норме";
     private static final String EXCESS = "У вас избыточный вес";
